@@ -1,4 +1,4 @@
-# Patrome arquitectonicos 
+# Patrones arquitectonicos 
 >[!NOTE]
 >Un **Patron arquitectonico** : es una solucion general y reutilizable a un problema comun en la arquitectura de sfotware dentro de un contexto dado. los patrones arquitectonicos son la habilidad de organizacion a nivel de carpetas adentro del proyecto de software.
 
